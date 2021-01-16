@@ -11,3 +11,7 @@
 
 ## Analysis of Graph Neural Networks
 * [ ] Xu, Keyulu, Weihua Hu, Jure Leskovec, and Stefanie Jegelka. 2018. “How Powerful Are Graph Neural Networks?” arXiv [cs.LG]. arXiv. http://arxiv.org/abs/1810.00826.
+
+
+## Applications of Graph Neural Networks
+* [X] Caramalau, Razvan, Binod Bhattarai, and Tae-Kyun Kim. 2020. “Sequential Graph Convolutional Network for Active Learning.” arXiv [cs.CV]. arXiv. http://arxiv.org/abs/2006.10219.
